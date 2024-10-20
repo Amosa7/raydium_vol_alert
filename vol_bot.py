@@ -4,8 +4,8 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes, JobQueue
 
 # Telegram bot credentials
-TOKEN: Final = 'YOUR_TELEGRAM_BOT_TOKEN'
-BOT_USERNAME: Final = '@YourBotUsername'
+TOKEN: Final = '7595781510:AAGbJB9IGOXS1OK6t5043SHvv2W3G5kc-Hc'
+BOT_USERNAME: Final = '@G_don_raydiumvol_bot'
 
 # Raydium API for token pairs
 RAYDIUM_API_URL = "https://api-v3.raydium.io/pairs"
